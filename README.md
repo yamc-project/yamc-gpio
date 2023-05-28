@@ -1,4 +1,4 @@
-# Oracle providers for RPI GPIO
+# yamc plugin for RPI GPIO
 
 This package provides data providers for yamc to access RPI GPIO. There is currently the following providers:
 
