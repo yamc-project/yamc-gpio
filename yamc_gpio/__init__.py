@@ -2,6 +2,7 @@
 # @author: Tomas Vitvar, https://vitvar.com, tomas@vitvar.com
 
 from .providers import GPIOPulseProvider
+from importlib.metadata import version, PackageNotFoundError
 
 
 def __getattr__(name):
