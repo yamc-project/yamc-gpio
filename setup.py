@@ -22,7 +22,7 @@ def read(*parts):
 
 # setup main
 # required modules
-install_requires = ["yamc_server>=1.0.2", "RPi.GPIO>=0.7.0", "setuptools_scm>=6.0.1"]
+install_requires = ["yamc_server>=2.0.0", "RPi.GPIO>=0.7.0", "setuptools_scm>=6.0.1"]
 
 setup(
     name="yamc-gpio",
